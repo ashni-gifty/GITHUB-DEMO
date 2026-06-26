@@ -1,1 +1,3 @@
 print(" my first module")
+print("hi")
+
